@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Android apps, transaction-based systems, cloud-native solutions, and full-stack Django/Node.js projects.
 - 📫 How to reach me: nchiranjeevi987@gmail.com
 - 😄 Pronouns: He/Him
--⚡ Fun fact: I enjoy working on both frontend and backend systems, with a focus on optimizing code for performance and readability!
+- ⚡ Fun fact: I enjoy working on both frontend and backend systems, with a focus on optimizing code for performance and readability!
 
 <!---
 Chiranjeevinarukula/Chiranjeevinarukula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
